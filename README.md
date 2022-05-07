@@ -1,14 +1,12 @@
-# ÖDEV 2
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk web sayfası. İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor.
-
-![Image](https://github.com/pnryazc/odev2/blob/main/odev2.PNG)
+# ALIŞTIRMA 1
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk web sayfası. İçerisinde bir adet README dosyası,index.html,about.html,contact.html ve img klasörü barındırıyor.
 
 
 ## Installation
 Öncelikle projeyi clonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```
-git clone https://github.com/pnryazc/odev2.git
+git clone https://github.com/pnryazc/calismalar2
 ```
 
 ## Usage
